@@ -22,7 +22,7 @@ const SetupPreReqWrapper = styled.div`
             transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
             border-radius:10px;
             :hover{
-                box-shadow: rgb(0,211,169) 0px 0px 6px;
+                box-shadow: rgb(0,211,169) 0px 0px 7px;
             }
             .card-header {
                 display: flex;
